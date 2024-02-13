@@ -4,8 +4,8 @@
 /**
  
  */
-import java.util.Scanner;
-class Calculator extends Child
+
+class Calculator
 {
     float addition( float operand_1,float operand_2){
         return(operand_1+operand_2);
