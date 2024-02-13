@@ -23,8 +23,8 @@ class Calculator
         return(operand_1*operand_1);
     }
     public static void main(String[] args) {
-        Calculator calc= new Calculator();
-   child c=new Child();
+        
+  
 
 float operand_1=10;
 float operand_2=20;
