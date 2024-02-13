@@ -28,10 +28,6 @@ class Calculator extends Child
 
 float operand_1=10;
 float op[erand_2=20;
- System.out.println("ENTER THE OPERAND 1");
- int operand_1=sc.nextInt();
- System.out.println("ENTER THE OPERAND 2");
- int operand_2=sc.nextInt();
 
  
  float add_result=calc.addition(operand_1,operand_2);
