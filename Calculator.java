@@ -21,7 +21,7 @@ class calc{
     }
 
     float square(float operand_1){
-        return (operand_1*operand_1)
+        return (operand_1*operand_1);
     }
     public static void main(String[]args){
         calc calc=new calc();
@@ -38,6 +38,6 @@ class calc{
 
         float squ_result=calc.division(operand_1,operand_2);
         System.out.println("result is:"+ squ_result);
-gbfrgegtehqet5gx
+
     }
 }
