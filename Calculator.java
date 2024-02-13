@@ -24,10 +24,10 @@ class Calculator extends Child
     }
     public static void main(String[] args) {
         Calculator calc= new Calculator();
-   
+   child c=new Child();
 
 float operand_1=10;
-float op[erand_2=20;
+float operand_2=20;
 
  
  float add_result=calc.addition(operand_1,operand_2);
