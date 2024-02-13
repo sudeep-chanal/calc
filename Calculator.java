@@ -5,7 +5,7 @@
  * The calculator class performs basic arithmetic operations such as addition, subtraction,
  * multiplication, and division on two operands.
  */
-class calc{ 
+class Calculator{ 
 
     float addition(float operand_1,float operand_2){
         return(operand_1+operand_2);
@@ -24,7 +24,7 @@ class calc{
         return (operand_1*operand_1);
     }
     public static void main(String[]args){
-        calc calc=new calc();
+        Calculator calc=new Calculator();
         float operand_1=10;
         float operand_2=5;
         float add_result=calc.addition(operand_1,operand_2);
